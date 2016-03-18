@@ -1,0 +1,10 @@
+Name,Type,Region,Weight (Lbs),Height (In),Length (In),EvolvesFrom,EvolvesTo
+Pirayz,Ground,Johto,12,17,36,,Pirayzior
+Planetrio,Psychic,Hoenn,3,24,17,Plasteette,
+Druddilate,Grass-Flying,Kalos,30,24,74,Constrictalure,
+Constrictalure,Grass-Psychic,Kalos,26,19,65,Slake,Druddilate
+Slake,Grass-Ground,Kalos,17,12,47,,Constrictalure
+Ariadneewelf,Ice,Hoenn,67,36,69,,
+Pirayzior,Ground-Fighting,Johto,68,60,36,Pirayz,
+Boomerat,Fire-Steel,Unova,8,12,27,,
+Plasteette,Psychic,Hoenn,1,12,12,,Planetrio
